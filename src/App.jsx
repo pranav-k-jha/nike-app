@@ -9,9 +9,9 @@ const App = () => {
       <section className="padding">SuperQuality</section>
       <section className="padding-x py-10">Services</section>
       <section className="padding">SpecialOffer</section>
-      <section className="padding">CustomerReviews</section>
-      <section className="padding">Subscribe</section>
-      <section className="padding">Footer</section>
+      <section className="padding bg-pale-blue">CustomerReviews</section>
+      <section className="padding-x sm:py-32 py-16 w-full">Subscribe</section>
+      <section className="padding-x padding-t pb-8 bg-black">Footer</section>
       <p class="bg-red-200 text-red-700 p-4 text-center font-bold">
         👨‍💻 Currently under construction! 🚧 <br />
         Just me tinkering with the code. Stay tuned for updates! 🚀
