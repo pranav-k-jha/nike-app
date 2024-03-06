@@ -35,7 +35,7 @@ const App = () => {
       <section className="padding-x padding-t pb-8 bg-black">
         <Footer />
       </section>
-      <p class="bg-red-200 text-red-700 p-4 text-center font-bold">
+      <p className="bg-red-200 text-red-700 p-4 text-center font-bold">
         👨‍💻 Currently under construction! 🚧 <br />
         Just me tinkering with the code. Stay tuned for updates! 🚀
       </p>
